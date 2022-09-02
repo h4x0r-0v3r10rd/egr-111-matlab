@@ -25,4 +25,4 @@ jobs:
       - name: Run commands
         uses: matlab-actions/run-command@v1
         with:
-          command: CET323_BJTDC06
+          command: assignment
