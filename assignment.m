@@ -3,7 +3,7 @@ close all
 clc
 format short eng
 
-print("")
+disp("")
 
 a = 100
 
