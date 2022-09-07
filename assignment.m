@@ -3,7 +3,6 @@ close all
 clc
 format short eng
 
-disp("")
+disp("My name is Mac")
 
-a = 100
-
+a = "09/06/2022"
