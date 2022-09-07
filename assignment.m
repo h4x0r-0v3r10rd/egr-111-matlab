@@ -3,7 +3,7 @@ close all
 clc
 format short eng
 
-disp("")
-
-a = 100
-
+>> disp("My name is Mac")
+My name is Mac
+>> 
+>>
